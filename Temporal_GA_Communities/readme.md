@@ -1,4 +1,4 @@
-# 同群类算法对时序网络的社团结构划分
+# 如何用自然寻优法找寻社团
 
 ---
 
@@ -29,3 +29,18 @@
 ### Highlight
 
 把遗传算法换成了布谷鸟算法
+
+## Analyzing Communities and Their Evolutions in Dynamic Social Networks
+
+### 对比
+- 介绍评价指标Bach and Jordan提出的评价指标`Erro rate`,其中Z是算法得出的社团的指标（全是布尔值）矩阵，G是真实的社团指标矩阵。
+
+## Review：Application of natural computation inspired method in community detection
+
+### 评估方法
+- 不只是NMI和Q,还有针对符号的SQ、针对重叠的EQ、针对动态网络的HQ
+### 自然启发法
+- 遗传算法的重要的社区划分发展：2013年一篇文章用相似度初始化、用统计的机器学习结合遗传算法进行划分。
+- 免疫算法
+- 智能群体：蚁群、粒子群
+- 神经网络

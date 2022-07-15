@@ -1,4 +1,4 @@
-# Network Embedding
+# 如何用GCN找寻社团
 
 ## Network_Embedding_Based_on_Biased_Random_Walk_for_Community_Detection_in_Attributed_Networks
 
