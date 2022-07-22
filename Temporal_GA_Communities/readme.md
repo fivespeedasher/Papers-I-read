@@ -44,3 +44,9 @@
 - 免疫算法
 - 智能群体：蚁群、粒子群
 - 神经网络
+
+## Improved community detection in weighted bipartite networks
+
+|Highlight|方法|对比|展望|
+|---|---|---|---|
+|提出了针对二分网络的加权模块度|把二分网络邻接矩阵改成带加权的矩阵|用到了后验模块度、NMI评估|
